@@ -5,7 +5,7 @@
 
 ## Демо
 Работающая версия доступна на GitHub Pages:  
-👉 [marselchik73.github.io/cars](https://marselchik73.github.io/cars/)
+[marselchik73.github.io/cars](https://marselchik73.github.io/cars/)
 
 ## О проекте
 
